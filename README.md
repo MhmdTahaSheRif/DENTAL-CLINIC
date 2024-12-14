@@ -23,4 +23,4 @@ Designing a website for a dental clinic that presents about the doctor and the m
 ## ✨ Live Demo
 
 Explore the interactive features and dynamic elements of Spering by visiting the hosted page on Github:
-[CREATIVE Page](https://mhmdtahasherif.github.io/DENTAL-CLINIC/)
+[DENTAL-CLINIC Page](https://mhmdtahasherif.github.io/DENTAL-CLINIC/)
